@@ -1,13 +1,14 @@
 
-
-# Lead   [![Swift Version](https://img.shields.io/badge/Swift Version-4.2-orange.svg)](https://docs.swift.org/swift-book/) [![GitHub license](https://img.shields.io/badge/Lisence-GPLv3-blue.svg)](LICENSE.md)
-
-**a featherweight iOS proxy with interactive UI.**
+## Lead
+[![Swift Version](https://img.shields.io/badge/Swift Version-4.2-orange.svg)](https://docs.swift.org/swift-book/) [![GitHub license](https://img.shields.io/badge/Lisence-GPLv3-blue.svg)](LICENSE.md)
 ![](/images/header.png)
+
+** - a featherweight iOS proxy with interactive UI.**
 
 Lead is currently compatible with [Shadowsocks](https://shadowsocks.org/en/index.html).
 
-For more information, see the [Demo](https://v.youku.com/v_show/id_XMzk0NDk5NjM2OA==.html?spm=a2h) vedio url.
+For more information, see the demo vedio [URL](https://v.youku.com/v_show/id_XMzk0NDk5NjM2OA==.html?spm=a2h).
+
 ![](/images/sample.png)
 
 
@@ -19,19 +20,27 @@ For more information, see the [Demo](https://v.youku.com/v_show/id_XMzk0NDk5NjM2
 
 ### Usage
 
-This project needs a Apple developer account and must be run at a physical device.
+This project needs an `Apple developer account` and must be run at a physical device.
+
+1. In Terminal,
 ```
 cd ~/your project path/
 pod install
 carthage update --no-use-binaries --platform ios
 ```
 
-In Xcode,
+2. In Xcode,
+
 >'PROJECT' -> 'TARGETS' -> 'Lead' ->'Signing', change the Signing with *'Yours'*.
+
 >'PROJECT' -> 'TARGETS' -> 'PacketTunnel' ->'Signing', change the Signing with *'Yours'*.
 
 
-Run it in a real iOS device.
+3. Run it:
+
+  -to test the UI, run it on the Simulator.
+
+  -to test the VPN connection, run it on a real iOS device.
 
 ### Customizing
 
