@@ -20,7 +20,7 @@ For more information, see the demo vedio [URL](https://v.youku.com/v_show/id_XMz
 
 ### Usage
 
-This project needs an `Apple developer account` and must be run at a physical device.
+This project needs an `Apple developer account` and must be run on a physical device.
 
 1. In Terminal,
 ```
