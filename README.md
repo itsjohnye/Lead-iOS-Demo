@@ -1,9 +1,9 @@
 
 ## Lead
-[![Swift Version](https://img.shields.io/badge/Swift Version-4.2-orange.svg)](https://docs.swift.org/swift-book/) [![GitHub license](https://img.shields.io/badge/Lisence-GPLv3-blue.svg)](LICENSE.md)
+[![Swift Version](https://img.shields.io/badge/Swift_Version-4.2-orange.svg)](https://docs.swift.org/swift-book/) [![GitHub license](https://img.shields.io/badge/Lisence-GPLv3-blue.svg)](LICENSE.md)
 ![](/images/header.png)
 
-** - a featherweight iOS proxy with interactive UI.**
+**- a featherweight iOS proxy with interactive UI.**
 
 Lead is currently compatible with [Shadowsocks](https://shadowsocks.org/en/index.html).
 
@@ -38,9 +38,9 @@ carthage update --no-use-binaries --platform ios
 
 3. Run it:
 
-  -to test the UI, run it on the Simulator.
+    -- to test the UI, run it on the Simulator.
 
-  -to test the VPN connection, run it on a real iOS device.
+    -- to test the VPN connection, run it on a real iOS device.
 
 ### Customizing
 
