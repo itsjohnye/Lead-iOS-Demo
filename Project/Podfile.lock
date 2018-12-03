@@ -1,0 +1,24 @@
+PODS:
+  - SCLAlertView (0.8)
+  - SideMenu (5.0.2)
+  - TextFieldEffects (1.5.1)
+
+DEPENDENCIES:
+  - SCLAlertView
+  - SideMenu
+  - TextFieldEffects
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SCLAlertView
+    - SideMenu
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SideMenu: e5094f0b2e7d9609e100a90ae69025abd994f882
+  TextFieldEffects: 7d372f58aeaf9acd9626bbf962680aef926b085d
+
+PODFILE CHECKSUM: b43036ef364e37464aaf320232771405c3345850
+
+COCOAPODS: 1.5.3

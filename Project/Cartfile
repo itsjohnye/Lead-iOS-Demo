@@ -1,0 +1,4 @@
+git "https://github.com/zhuhaow/NEKit" "master"
+github "xmartlabs/Eureka"
+github "soffes/CommonCrypto"
+github "SnapKit/SnapKit"

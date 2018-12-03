@@ -1,0 +1,8 @@
+platform :ios, '10.0'
+use_frameworks!
+
+target 'Lead' do
+  pod 'TextFieldEffects'
+  pod 'SideMenu'
+  pod 'SCLAlertView'
+end
