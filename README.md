@@ -3,7 +3,7 @@
 [![Swift Version](https://img.shields.io/badge/Swift_Version-4.2-orange.svg)](https://docs.swift.org/swift-book/) [![GitHub license](https://img.shields.io/badge/Lisence-GPLv3-blue.svg)](LICENSE.md)
 ![](/images/header.png)
 
-**- a featherweight iOS proxy with interactive UI.**
+**- a featherweight iOS proxy client with interactive UI.**
 
 Lead is currently compatible with [Shadowsocks](https://shadowsocks.org/en/index.html).
 
