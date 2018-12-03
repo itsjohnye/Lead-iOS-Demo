@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  Lead
+
+  Created by Yip on 2018/11/22.
+  Copyright © 2018 Ye. All rights reserved.
+*/
+"Please set the Configuration at first" = "Please set the Configuration at first";
+"Please enter the Address" = "Please enter the Address";
+"Please enter the Port" = "Please enter the Port";
+"Please select a Method" = "Please select a Method";
+"Please enter the Password" = "Please enter the Password";
+"Configuration" = "Configuration";
+"Click" = "Click";
+"Connect" = "Connect";
+"Configured" = "Configured";
+"Connecting" = "Connecting";
+"Disconnecting" = "Disconnecting";
+"Connected" = "Connected";
+"Disconnect" = "Disconnect";
+"Proxy type" = "Proxy type";
+"Address" = "Address";
+"Prot" = "Prot";
+"Method" = "Method";
+"Password" = "Password";
+"Comment(optinal)" = "Comment(optinal)";
+"Cancel" = "Cancel";
+"Done" = "Done";
+"Configured!" = "Configured!";
+"User guide" = "User guide";
+"Share to friends" = "Share to friends";
+"Feedback" = "Feedback";
+"Rate on App Store" = "Rate on App Store";
+"Version" = "Version";

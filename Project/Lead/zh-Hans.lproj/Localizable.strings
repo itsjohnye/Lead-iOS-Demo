@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  Lead
+
+  Created by Yip on 2018/11/22.
+  Copyright © 2018 yicheng. All rights reserved.
+*/
+"Please set the Configuration at first" = "请先添加配置";
+"Please enter the Address" = "请输入地址";
+"Please enter the Port" = "请输入端口";
+"Please select a Method" = "请选择加密方法";
+"Please enter the Password" = "请输入密码";
+"Configuration" = "配  置";
+"Click" = "点击添加";
+"Connect" = "连接";
+"Configured" = "已配置";
+"Connecting" = "正在连接";
+"Disconnecting" = "正在断开";
+"Connected" = "已连接";
+"Disconnect" = "未连接";
+"Proxy type" = "代理类型";
+"Address" = "地  址";
+"Prot" = "端  口";
+"Method" = "加密方法";
+"Password" = "密  码";
+"Comment(optinal)" = "备  注(选 填)";
+"Cancel" = "取消";
+"Done" = "完成";
+"Configured!" = "配置成功!";
+"User guide" = "关于使用";
+"Share to friends" = "分享给朋友";
+"Feedback" = "反馈与建议";
+"Rate on App Store" = "给予好评";
+"Version" = "版本信息";
+
