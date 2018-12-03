@@ -49,7 +49,7 @@ It is available to modify rules in NEKitRule.conf which is written by yaml.
 
 
 ### Credits
-Show the respect to those open-source projects:
+Thanks to these open-source projects:
 - [Eureka](https://github.com/xmartlabs/Eureka)
 - [NEKit](https://github.com/zhuhaow/NEKit)
 - [RabbitVpnDemo](https://github.com/yichengchen/RabbitVpnDemo)
@@ -62,4 +62,4 @@ Show the respect to those open-source projects:
 
 ### Lisence
 Lead-iOS is published under the [GPLv3](LICENSE.md) license.
-Copyright (c) 2018 itsjohnye, all right reserved.
+Copyright (c) 2018 itsjohnye, all rights reserved.
