@@ -61,5 +61,5 @@ Thanks to these open-source projects:
 - [TextFieldEffects](https://github.com/raulriera/TextFieldEffects)
 
 ### Lisence
-Lead-iOS is published under the [GPLv3](LICENSE.md) license.
+Lead-iOS is published under the [GPLv3](LICENSE) license.
 Copyright (c) 2018 itsjohnye, all rights reserved.
