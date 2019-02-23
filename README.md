@@ -11,7 +11,6 @@ For more information, see the demo vedio [URL](https://v.youku.com/v_show/id_XMz
 
 ![](/images/sample.png)
 
-
 ### Todo List
 - Other avaliable proxy types:
   - [ ] HTTP
@@ -45,7 +44,6 @@ carthage update --no-use-binaries --platform ios
 ### Customizing
 
 It is available to modify rules in NEKitRule.conf which is written by yaml.
-
 
 
 ### Credits
