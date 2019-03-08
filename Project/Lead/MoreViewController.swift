@@ -54,7 +54,7 @@ class MoreViewController: FormViewController, SFSafariViewControllerDelegate, MF
                 $0.title = NSLocalizedString("Share to friends", comment: "")
                 }.onCellSelection({ [unowned self] (cell, row) -> () in
                     var shareItems: [AnyObject] = [self]
-                    shareItems.append("Lead: https://itunes.apple.com/cn/app/lead/id1393469786" as AnyObject)
+                    shareItems.append("Lead: https://itunes.apple.com/" as AnyObject)
                     shareItems.append(UIImage(named: "AppIcon60x60")!)
                     let shareVC = UIActivityViewController(activityItems: shareItems, applicationActivities: nil)
                     if let presenter = shareVC.popoverPresentationController {
@@ -96,7 +96,7 @@ class MoreViewController: FormViewController, SFSafariViewControllerDelegate, MF
             <<< ActionRow(){
                 $0.title = NSLocalizedString("Rate on App Store", comment: "")
                 }.onCellSelection({ (cell, row) in
-                    let urs="itms-apps://itunes.apple.com/cn/app/lead/id1393469786"
+                    let urs="itms-apps://itunes.apple.com/"
                     let url:URL?=URL.init(string: urs)
                     if #available(iOS 10.0, *) {
                         UIApplication.shared.open(url!, options: convertToUIApplicationOpenExternalURLOptionsKeyDictionary([:]), completionHandler: nil)
@@ -105,7 +105,7 @@ class MoreViewController: FormViewController, SFSafariViewControllerDelegate, MF
                     }
                 })
             
-            +++ Section(footer: "Copyright © 2018 John Ye. All rights reserved.")
+            +++ Section(footer: "Copyright © 2018 Ye. All rights reserved.")
             <<< LabelRow() {
                 $0.title = NSLocalizedString("Version", comment: "")
                 $0.value = "V 1.0.0"
@@ -128,7 +128,7 @@ class MoreViewController: FormViewController, SFSafariViewControllerDelegate, MF
         if activityType.contains("com.tencent") {
             return "Lead iOS: https://github.com/itsjohnye"
         }
-        return "Lead: https://itunes.apple.com/cn/app/lead/id1393469786"
+        return "Lead: https://itunes.apple.com/"
     }
     
     func activityViewController(_ activityViewController: UIActivityViewController, subjectForActivityType activityType: String?) -> String {
