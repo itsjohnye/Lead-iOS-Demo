@@ -1,0 +1,10 @@
+{
+  "commitish" : "5.0.0",
+  "iOS" : [
+    {
+      "name" : "Eureka",
+      "hash" : "cdfcd9177d3dfe6dba69959b55dfd2766165348922afd941791d99610a6567fd",
+      "swiftToolchainVersion" : "5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+    }
+  ]
+}

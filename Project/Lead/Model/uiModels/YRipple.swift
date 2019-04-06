@@ -11,23 +11,23 @@ import UIKit
 
 public extension UIView {
     
-    public func rippleBorder(location:CGPoint, color:UIColor) {
+    func rippleBorder(location:CGPoint, color:UIColor) {
         rippleBorder(location: location, color: color){}
     }
     
-    public func rippleBorder(location:CGPoint, color:UIColor, then: @escaping ()->() ) {
+    func rippleBorder(location:CGPoint, color:UIColor, then: @escaping ()->() ) {
         YRipple.border(view:self, locationInView: location, color: color, then: then)
     }
     
-    public func rippleFill(location:CGPoint, color:UIColor) {
+    func rippleFill(location:CGPoint, color:UIColor) {
         rippleFill(location: location, color: color){}
     }
     
-    public func rippleFill(location:CGPoint, color:UIColor, then: @escaping ()->() ) {
+    func rippleFill(location:CGPoint, color:UIColor, then: @escaping ()->() ) {
         YRipple.fill(view:self, locationInView: location, color: color, then: then)
     }
     
-    public func rippleStop() {
+    func rippleStop() {
         YRipple.stop(view: self)
     }
     

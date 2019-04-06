@@ -1,0 +1,11 @@
+framework module Eureka {
+  umbrella header "Eureka.h"
+
+  export *
+  module * { export * }
+}
+
+module Eureka.Swift {
+    header "Eureka-Swift.h"
+    requires objc
+}
