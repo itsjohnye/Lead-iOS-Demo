@@ -60,4 +60,4 @@ Thanks to these open-source projects:
 
 ### Lisence
 Lead-iOS is published under the [GPLv3](LICENSE) license.
-Copyright (c) 2018 itsjohnye, all rights reserved.
+Copyright (c) 2018-present itsjohnye, all rights reserved.
