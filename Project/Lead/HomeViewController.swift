@@ -48,8 +48,8 @@ class HomeViewController: UIViewController {
         }
     }
     required init?(coder aDecoder: NSCoder) {
-        self.status = .off
         super.init(coder: aDecoder)
+        self.status = .off
         NotificationCenter.default.addObserver(self, selector: #selector(onVPNStatusChanged), name: NSNotification.Name(rawValue: kProxyServiceVPNStatusNotification), object: nil)
     }
     //反初始化，释放实例
