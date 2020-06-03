@@ -10,10 +10,9 @@ Lead is currently compatible with [Shadowsocks](https://shadowsocks.org/en/index
 For more information, see the demo vedio [URL](https://v.youku.com/v_show/id_XMzk0NDk5NjM2OA==.html?spm=a2h).
 
 ### Todo List
-- Other avaliable proxy types:
-  - [ ] HTTP
-  - [ ] HTTPS
-  - [ ] ShadowsocksR
+- [ ] support other crypo
+
+  
 
 ### Usage
 
