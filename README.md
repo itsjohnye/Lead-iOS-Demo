@@ -7,7 +7,7 @@
 
 Lead is currently compatible with [Shadowsocks](https://shadowsocks.org/en/index.html).
 
-For more information, see the demo vedio [URL](https://v.youku.com/v_show/id_XMzk0NDk5NjM2OA==.html?spm=a2h).
+For more information, see the demo video [URL](https://v.youku.com/v_show/id_XMzk0NDk5NjM2OA==.html?spm=a2h).
 
 ### Todo List
 - [ ] support other crypo algorithms
